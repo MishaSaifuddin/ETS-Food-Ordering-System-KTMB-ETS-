@@ -109,3 +109,12 @@ The system emphasizes **security, usability, and performance**, aligning with en
 ## 📌 Conclusion
 
 This project reflects an end-to-end software development lifecycle and demonstrates industry-relevant skills suitable for software engineering, web development, and security-focused roles.
+
+---
+
+## 👩‍💻 Author
+🔐 Focused on Secure Systems, Databases & Cybersecurity  
+📌 This project is part of my professional portfolio and demonstrates my readiness for **industry-level software and security roles**.
+
+---
+
