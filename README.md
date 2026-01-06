@@ -1,5 +1,5 @@
 # ETS-Food-Ordering-System-KTMB-ETS-
-ETS Food Ordering System
+Full-stack food ordering platform built with PHP & MySQL featuring secure authentication, role-based access control, real-time order management, and responsive UI. Designed using real-world system design and security best practices.
 
 # ETS Food Ordering System (KTMB-ETS)
 
